@@ -34,4 +34,6 @@ async function Page() {
   );
 }
 
+//onboarding process for users
+
 export default Page;
